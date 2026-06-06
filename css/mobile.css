@@ -1,0 +1,172 @@
+/* Mobile layout - Figma mo_00_Main (375px) */
+
+@media (max-width: 1023px) {
+  .container {
+    padding-left: var(--container-pad-mo);
+    padding-right: var(--container-pad-mo);
+  }
+
+  .site-header {
+    padding: 20px var(--container-pad-mo);
+  }
+
+  .site-header__logo {
+    width: 120px;
+  }
+
+  .hero {
+    min-height: 100vh;
+    min-height: 100dvh;
+  }
+
+  .hero__inner {
+    grid-template-columns: 1fr;
+    padding: 120px var(--container-pad-mo) 100px;
+    gap: 40px;
+  }
+
+  .hero__title {
+    font-size: 28px;
+  }
+
+  .hero__subtitle {
+    font-size: 14px;
+    margin-top: 20px;
+  }
+
+  .hero__diagram {
+    max-width: 100%;
+    margin: 0 auto;
+  }
+
+  .hero__scroll {
+    bottom: 24px;
+    font-size: 12px;
+  }
+
+  .section-works,
+  .section-ai,
+  .section-ceo,
+  .section-history,
+  .section-news,
+  .section-client {
+    padding: var(--section-gap-mo) 0;
+  }
+
+  .section-works .section-title,
+  .section-ai .section-title,
+  .section-history .section-title,
+  .section-news .section-title,
+  .section-client .section-title {
+    font-size: 30px;
+    margin-bottom: 30px;
+  }
+
+  .works-grid {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+
+  .work-card {
+    aspect-ratio: 335 / 400;
+  }
+
+  .work-card__title {
+    font-size: 16px;
+  }
+
+  .ai-grid {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+
+  .ai-card {
+    min-height: 320px;
+  }
+
+  .ai-card__title {
+    font-size: 36px;
+  }
+
+  .ai-card__desc {
+    font-size: 14px;
+  }
+
+  .section-ceo .section-title {
+    font-size: 30px;
+  }
+
+  .ceo-lead {
+    font-size: 20px;
+  }
+
+  .ceo-body p {
+    font-size: 14px;
+  }
+
+  .history-layout {
+    grid-template-columns: 1fr;
+    gap: 30px;
+  }
+
+  .history-years {
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+
+  .history-year-btn {
+    font-size: 28px;
+    padding: 4px 0;
+  }
+
+  .history-item__month {
+    font-size: 16px;
+  }
+
+  .history-item__text {
+    font-size: 14px;
+  }
+
+  .news-row {
+    grid-template-columns: 1fr;
+    gap: 8px;
+    padding: 20px 0;
+    font-size: 16px;
+  }
+
+  .news-row__date {
+    text-align: left;
+    font-size: 14px;
+  }
+
+  .client-logos {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+  }
+
+  .footer-grid {
+    grid-template-columns: 1fr;
+    gap: 50px;
+  }
+
+  .footer-contact h3 {
+    font-size: 30px;
+  }
+
+  .footer-inquiry h3 {
+    font-size: 20px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .mobile-only {
+    display: none !important;
+  }
+}
+
+@media (max-width: 1023px) {
+  .pc-only {
+    display: none !important;
+  }
+}

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 726 550" fill="none">
+  <polygon points="363,40 626,192 626,358 363,510 100,358 100,192" stroke="#ffffff" stroke-width="1.2" fill="none" opacity="0.35"/>
+  <line x1="363" y1="275" x2="363" y2="40" stroke="#ffffff" stroke-width="0.8" opacity="0.5"/>
+  <line x1="363" y1="275" x2="626" y2="192" stroke="#ffffff" stroke-width="0.8" opacity="0.5"/>
+  <line x1="363" y1="275" x2="626" y2="358" stroke="#ffffff" stroke-width="0.8" opacity="0.5"/>
+  <line x1="363" y1="275" x2="363" y2="510" stroke="#ffffff" stroke-width="0.8" opacity="0.5"/>
+  <line x1="363" y1="275" x2="100" y2="358" stroke="#ffffff" stroke-width="0.8" opacity="0.5"/>
+  <line x1="363" y1="275" x2="100" y2="192" stroke="#ffffff" stroke-width="0.8" opacity="0.5"/>
+  <circle cx="363" cy="40" r="4" fill="#ffffff"/>
+  <circle cx="626" cy="192" r="4" fill="#ffffff"/>
+  <circle cx="626" cy="358" r="4" fill="#ffffff"/>
+  <circle cx="363" cy="510" r="4" fill="#ffffff"/>
+  <circle cx="100" cy="358" r="4" fill="#ffffff"/>
+  <circle cx="100" cy="192" r="4" fill="#ffffff"/>
+  <text x="363" y="290" text-anchor="middle" font-family="Pretendard, sans-serif" font-size="42" font-weight="700" fill="#ffffff">IMC</text>
+  <text x="363" y="18" text-anchor="middle" font-family="Pretendard, sans-serif" font-size="14" font-weight="300" fill="#ffffff">PR CONSULTING</text>
+  <text x="680" y="188" text-anchor="end" font-family="Pretendard, sans-serif" font-size="14" font-weight="300" fill="#ffffff">IMC Campaign</text>
+  <text x="680" y="370" text-anchor="end" font-family="Pretendard, sans-serif" font-size="13" font-weight="300" fill="#ffffff">Digital Marketing &amp;</text>
+  <text x="680" y="388" text-anchor="end" font-family="Pretendard, sans-serif" font-size="13" font-weight="300" fill="#ffffff">Communications</text>
+  <text x="363" y="540" text-anchor="middle" font-family="Pretendard, sans-serif" font-size="14" font-weight="300" fill="#ffffff">Media Relations</text>
+  <text x="46" y="370" font-family="Pretendard, sans-serif" font-size="14" font-weight="300" fill="#ffffff">Public affairs</text>
+  <text x="46" y="188" font-family="Pretendard, sans-serif" font-size="13" font-weight="300" fill="#ffffff">Issue and</text>
+  <text x="46" y="206" font-family="Pretendard, sans-serif" font-size="13" font-weight="300" fill="#ffffff">Crisis Management</text>
+</svg>
